@@ -1,2 +1,2 @@
 # Aprendendo Versionamento
- Repositorio para prática de versionamenot de código
+ Repositorio para prática de versionamenoto de código.
